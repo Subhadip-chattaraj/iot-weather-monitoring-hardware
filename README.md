@@ -90,13 +90,9 @@ Sample connections:
 
 ---
 
-<h3>📹 Demo Video</h3>
+## 📹 Demo Working Video
 
-<video width="640" controls>
-  <source src="assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+>![Demo Working Video](assets/video.mp4)
 
 ---
 
