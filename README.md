@@ -147,6 +147,25 @@ A series of tests were conducted to ensure the system's functionality, security,
 
 ---
 
+---
+
+## 🙌 Contributors
+
+- Tamajit Hazra 
+- Pooja Yadav 
+- Subhadip Chattaraj 
+- Sayantan Mukharjee 
+
+---
+
+## 📍 Institution
+
+**Asansol Engineering College**  
+Department of Electronics and Communication Engineering  
+Affiliated to MAKAUT
+
+---
+
 ## ✅ Conclusion
 
 The **Automatic Weather Monitoring System**, developed using the **ESP32 microcontroller**, successfully integrates multiple sensors—**DHT11**, **DHT21**, **BMP280**, **Rain Sensor**, and **LDR**—to provide **real-time weather data**, including temperature, humidity, atmospheric pressure, rainfall, and light intensity.
