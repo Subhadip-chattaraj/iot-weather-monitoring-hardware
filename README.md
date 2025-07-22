@@ -74,7 +74,7 @@ Sample connections:
 
 ## 📷 Circuit Diagram
 
-> Upload your Fritzing or schematic image to `circuit_diagram/` folder and embed it here.
+>![Weather Monitoring Circuit](circuit_diagram/image.png)
 
 ---
 
