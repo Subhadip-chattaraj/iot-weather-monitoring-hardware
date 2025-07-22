@@ -90,6 +90,16 @@ Sample connections:
 
 ---
 
+<h3>📹 Demo Video</h3>
+
+<video width="640" controls>
+  <source src="assets/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+---
+
 ## 🧪 Testing
 
 A series of tests were conducted to ensure the system's functionality, security, reliability, power efficiency, and connectivity. Below is a detailed summary:
