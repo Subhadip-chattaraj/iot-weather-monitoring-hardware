@@ -56,15 +56,21 @@ Sample connections:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iot-weather-monitoring-hardware.git
+   git clone https://github.com/Subhadip-chattaraj/iot-weather-monitoring-hardware.git
    ```
 
 2. Open `firmware/esp32_weather_monitor.ino` in Arduino IDE
 
 3. Install required libraries:
-   - `Adafruit BMP280`
-   - `DHT sensor library`
-   - `LiquidCrystal_I2C`
+   - `Blynk by Volodymyr Shymanskyy`
+
+   - `DHT sensor library by Adafruit`
+
+   - `Adafruit Unified Sensor (dependency for DHT)`
+
+   - `LiquidCrystal_I2C by Frank de Brabander or Marco Schwartz`
+
+   - `ESP32 Board Package by Espressif Systems (install via Board Manager)`
 
 4. Select Board: `ESP32 Dev Module`
 
