@@ -84,6 +84,12 @@ Sample connections:
 
 ---
 
+## 📷 Block Diagram
+
+>![Weather Monitoring Block](block_diagram/image.png)
+
+---
+
 ## 🧪 Testing
 
 A series of tests were conducted to ensure the system's functionality, security, reliability, power efficiency, and connectivity. Below is a detailed summary:
